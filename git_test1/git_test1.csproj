@@ -222,6 +222,7 @@
     <Compile Include="Assets\Addcoinscript.cs" />
     <Compile Include="Assets\Addcoinscript2.cs" />
     <Compile Include="Assets\Pusher.cs" />
+    <Compile Include="Assets\Text.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
